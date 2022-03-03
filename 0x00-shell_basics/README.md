@@ -16,3 +16,4 @@ Back to the future
 15. lets move
 16. Clean emacs
 17. Tree
+18. life is a series of commas, not period

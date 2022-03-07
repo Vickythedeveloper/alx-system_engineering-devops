@@ -8,3 +8,4 @@ Write a script that displays the last 10 lines of file /etc/passwd
 8. Save current state of directory
 10. No more javascript
 Don't just count your directories, make your directories count
+12. What's new?

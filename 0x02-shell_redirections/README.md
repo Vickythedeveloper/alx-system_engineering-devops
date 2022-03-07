@@ -4,3 +4,4 @@ This project works on shell I/O redirections
 Display the contents of files /etc/passwd and /etc/hosts
 Write a script that displays the last 10 lines of file /etc/passwd
 5. I'd prefer the first ones actually
+6. Write a sctipt that displays the third line of the file iacta

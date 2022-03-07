@@ -6,3 +6,4 @@ Write a script that displays the last 10 lines of file /etc/passwd
 5. I'd prefer the first ones actually
 6. Write a sctipt that displays the third line of the file iacta
 8. Save current state of directory
+10. No more javascript

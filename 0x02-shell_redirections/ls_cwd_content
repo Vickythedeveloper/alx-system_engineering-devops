@@ -1,0 +1,17 @@
+total 44
+-rw-r--r-- 1 root root  11 Mar  7 07:47 *
+drwxr-xr-x 2 root root 281 Mar  7 12:39 .
+drwxr-xr-x 6 root root 121 Mar  7 06:07 ..
+-rwxr--r-- 1 root root  32 Mar  7 06:18 0-hello_world
+-rwxr--r-- 1 root root  28 Mar  7 06:48 2-hellofile
+-rwxr--r-- 1 root root  39 Mar  7 06:54 3-twofiles
+-rwxr--r-- 1 root root  29 Mar  7 06:59 4-lastlines
+-rwxr--r-- 1 root root  29 Mar  7 07:07 5-firstlines
+-rwxr--r-- 1 root root  41 Mar  7 07:43 6-third_line
+-rwxr--r-- 1 root root  36 Mar  7 12:39 8-cwd_state
+-rw-r--r-- 1 root root  11 Mar  7 07:50 *\"Best School"\\*$?*****:
+lrwxrwxrwx 1 root root  22 Mar  7 06:29 .#enjoy -> root@c113c01439b2.3734
+-rw-r--r-- 1 root root 110 Mar  7 07:26 iacta
+-rw-r--r-- 1 root root   0 Mar  7 12:39 ls_cwd_content
+-rw-r--r-- 1 root root 438 Mar  7 08:00 README.md
+lrwxrwxrwx 1 root root  22 Mar  7 06:12 .#trhydddddddddddyrgf -> root@c113c01439b2.3662

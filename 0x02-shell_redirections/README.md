@@ -10,3 +10,4 @@ Write a script that displays the last 10 lines of file /etc/passwd
 Don't just count your directories, make your directories count
 12. What's new?
 13. Being unique is better than being perfect
+13. It must be in that file

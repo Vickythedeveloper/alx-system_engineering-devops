@@ -2,3 +2,4 @@ This project works on shell I/O redirections
 0. Write a script that print "Hello,World" to the standard outpou
 2. Write a script that displays the contents of /etc/passwd file
 Display the contents of files /etc/passwd and /etc/hosts
+Write a script that displays the last 10 lines of file /etc/passwd

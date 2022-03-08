@@ -15,3 +15,4 @@ Don't just count your directories, make your directories count
 17. I hate bins
 9. Make a duplicate
 16. What next?
+18. letters only please
